@@ -1,0 +1,3 @@
+[submodule "crystal"]
+	path = crystal
+	url = git@github.com:madmike/crystal.git
