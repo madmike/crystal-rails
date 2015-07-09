@@ -27,3 +27,4 @@ task javascripts: :submodule do
       out.write(source_code)
     end
   end
+end
